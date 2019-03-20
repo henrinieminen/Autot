@@ -6,6 +6,10 @@ Tietokanta autojen tallentamiseen. Toiminnot ovat vielä kehityksen alkupääss�
 Sisältä löytyvät SQL tietokanta, muutamalla esimerkki datalla, sekä koodi itse toiminnallisuuksiin. Toiminallisuuksista löytyvät
 metodit lisätä, muuttaa, poistaa, sekä hakea tietokannasta autoja. Toiminnallisuudet ovat vielä vajavaiset, ja toimivat vain oletuksella että niihin syötetään vain annettuja arvoja. Poikkeustapaukset otettaisiin huomioon jatkokehityksessä.
 
+## Testaus
+
+Testaus on toteutettu resurssien puutteiden takia main-metodilla ohjelman sisällä. Main-metodiin syöttämällä annettuihin kutsuihin voidaan tarkistaa ohjelman toimivuus. Jatkokehityksessä toteutettaisiin post-man testaus ohjelmalle.
+
 ### Tarvittavat ohjelmat
 
 SQL tietokannan aloittamiseen, sekä IDE ohjelma java-koodin ajamiseen.
