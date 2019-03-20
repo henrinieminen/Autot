@@ -9,6 +9,7 @@ metodit lisätä, muuttaa, poistaa, sekä hakea tietokannasta autoja. Toiminnall
 ### Tarvittavat ohjelmat
 
 SQL tietokannan aloittamiseen, sekä IDE ohjelma java-koodin ajamiseen.
+Valmiiseen tietokantaan käyttäjä(user = root, password = admin)
 
 ## Toteutus
 
