@@ -1,10 +1,10 @@
 # Autotkanta
-Tietokanta autojen tallentamiseen.
+Tietokanta autojen tallentamiseen. 
 
 ## Sisällys
 
 Sisältä löytyvät SQL tietokanta, muutamalla esimerkki datalla, sekä koodi itse toiminnallisuuksiin. Toiminallisuuksista löytyvät
-metodit lisätä, muuttaa, poistaa, sekä hakea tietokannasta autoja.
+metodit lisätä, muuttaa, poistaa, sekä hakea tietokannasta autoja. Toiminnallisuudet ovat vielä vajavaiset, ja toimivat vain oletuksella että niihin syötetään vain annettuja arvoja. Poikkeustapaukset otettaisiin huomioon jatkokehityksessä.
 
 ### Tarvittavat ohjelmat
 
