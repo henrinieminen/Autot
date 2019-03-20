@@ -13,6 +13,7 @@ SQL tietokannan aloittamiseen, sekä IDE ohjelma java-koodin ajamiseen.
 ## Toteutus
 
 Eclipse Ide - toiminnallisuuksien toteutus javalla
+
 MySql - tietokannan toteutus
 
 ## Authors
