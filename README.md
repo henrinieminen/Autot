@@ -1,5 +1,5 @@
 # Autotkanta
-Tietokanta autojen tallentamiseen. 
+Tietokanta autojen tallentamiseen. Toiminnot ovat vielä kehityksen alkupäässä, myöhemmässä kehityksessä otettaisiin huomioon paremmin poikkeustapauksia ja oikeellisuuksia.
 
 ## Sisällys
 
